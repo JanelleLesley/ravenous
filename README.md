@@ -1,4 +1,4 @@
-#Ravenous
+Ravenous
 
 This React app allows users to interact with the Yelp API to retrieve image and location data based on food type and location
 
