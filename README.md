@@ -1,3 +1,9 @@
+#Ravenous
+
+This React app allows users to interact with the Yelp API to retrieve image and location data based on food type and location
+
+<p>Tech used: HTML, CSS, JS, React, Yelp API</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
